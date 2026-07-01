@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\productdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\productdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\productdata\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\productdata\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\controllers\\saledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\controllers\\saledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\productdata\\saledetaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\productdata\\saledetaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\model\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\model\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\supermarketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\supermarketapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|d:\\c#\\supermarketapi\\supermarketapi\\supermarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5AB234-D017-48B0-914F-9E4F54228E70}|supermarketAPI\\supermarketAPI.csproj|solutionrelative:supermarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "supermarketAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:32:00.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Customer.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\MODEL\\Customer.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Customer.cs",
+              "RelativeToolTip": "supermarketAPI\\MODEL\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T03:41:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleDetailsController.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\SaleDetailsController.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Controllers\\SaleDetailsController.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\SaleDetailsController.cs",
+              "RelativeToolTip": "supermarketAPI\\Controllers\\SaleDetailsController.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAALUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:32:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\ProductData.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\ProductData\\ProductData.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\ProductData.cs",
+              "RelativeToolTip": "supermarketAPI\\ProductData\\ProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:57:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\UserData.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\ProductData\\UserData.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\UserData.cs",
+              "RelativeToolTip": "supermarketAPI\\ProductData\\UserData.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:56:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Login.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\MODEL\\Login.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Login.cs",
+              "RelativeToolTip": "supermarketAPI\\MODEL\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:25:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\User.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\MODEL\\User.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\User.cs",
+              "RelativeToolTip": "supermarketAPI\\MODEL\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:22:24.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "supermarketAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv8oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T03:42:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Sale.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\MODEL\\Sale.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\Sale.cs",
+              "RelativeToolTip": "supermarketAPI\\MODEL\\Sale.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T06:20:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Program.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Program.cs",
+              "RelativeToolTip": "supermarketAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:18:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "supermarketAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAiwLsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T13:32:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleDetailData.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\SaleDetailData.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\ProductData\\SaleDetailData.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\ProductData\\SaleDetailData.cs",
+              "RelativeToolTip": "supermarketAPI\\ProductData\\SaleDetailData.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T01:38:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleDetails.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\SaleDetails.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\MODEL\\SaleDetails.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\MODEL\\SaleDetails.cs",
+              "RelativeToolTip": "supermarketAPI\\MODEL\\SaleDetails.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T01:38:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "supermarketAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "supermarketAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwMAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T14:40:24.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "supermarketAPI.http",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\supermarketAPI.http",
+              "RelativeDocumentMoniker": "supermarketAPI\\supermarketAPI.http",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\supermarketAPI.http",
+              "RelativeToolTip": "supermarketAPI\\supermarketAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-01T01:16:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "supermarketAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "supermarketAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-30T13:11:06.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "supermarketAPI\\appsettings.json",
+              "ToolTip": "D:\\C#\\SUPERMARKETAPI\\supermarketAPI\\supermarketAPI\\appsettings.json",
+              "RelativeToolTip": "supermarketAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-30T13:09:52.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
